@@ -8,9 +8,8 @@
 <h1>🛠 Me Stack</h1>
 
 - 💻 &nbsp; `.cpp` | `.cs` | `.html` | `.css` | `.js`
-- 🌐 &nbsp; .NET 6/5/3 | MVC | Blazor | WebApi
+- 🌐 &nbsp; .NET 6/5/3 | MVC | WebApi
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
-- 🛢 &nbsp; SqlServer
 
 <br/>
 
