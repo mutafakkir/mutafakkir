@@ -51,4 +51,4 @@
 </p>
 <hr>
 
-[![Asrorbek O'ktamjonov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mutafakkir)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Asrorbek O'ktamjonov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mutafakkir&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
