@@ -34,7 +34,7 @@
 <div>
  <br/>
 
-[![Mutafakkir's Streak](https://github-readme-streak-stats.herokuapp.com?user=mutafakkir&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+[![Mutafakkir's Streak](https://github-readme-streak-stats.herokuapp.com?user=mutafakkir&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
 [![](https://komarev.com/ghpvc/?username=mutafakkir&color=orange&label=Profile%20Views)](https://github.com/mutafakkir/mutafakkir)
 [![](https://img.shields.io/github/followers/mutafakkir?label=GitHub%20Followers)](https://github.com/mutafakkir)
