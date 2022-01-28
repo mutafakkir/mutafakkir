@@ -10,15 +10,23 @@
 
 <br/>
 
-## 🔥 Streak stats
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/mutafakkir/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mutafakkir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mutafakkir&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+  <div align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=mutafakkir&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutafakkir&theme=algolia&hide_border=true">
+
+  </div>
+
+  <div align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=mutafakkir&theme=react-dark&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
+  </div>
+
+</details>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
