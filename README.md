@@ -138,6 +138,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
+  <a href="https://github-readme-stats.vercel.app/api?username=mutafakkir&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mutafakkir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutafakkir&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
