@@ -46,7 +46,6 @@
 <img src="./git.png" height="40" style="vertical-align:down; margin:4px">
 <img src="./github.png" height="40" style="vertical-align:down; margin:4px">
 <img src="./vscode.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./vs.png" height="40" style="vertical-align:down; margin:4px">
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mutafakkir&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
