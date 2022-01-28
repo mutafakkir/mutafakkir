@@ -35,23 +35,20 @@
 <p align="center">
 <!--Languages-->
  
-<img src="./images/language-icons/csharp.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/language-icons/cpp.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/python.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/html.png" height="40" style="vertical-align:down; margin:4px">
-  <img src="./images/language-icons/css.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/language-icons/javascript.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/java.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/csharp.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="./images/cpp.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/html.png" height="40" style="vertical-align:down; margin:4px">
+  <img src="./images/css.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="./images/javascript.png" height="40" style="vertical-align:down; margin:4px">
 
 <!--Tools-->
 
-<img src="./images/language-icons/git.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/github.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/vscode.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/vs.png" height="40" style="vertical-align:down; margin:4px">
-<img src = "./images/language-icons/sublime.png" style="vertical-align:top; margin:4px" height="40">
-<img src="./images/language-icons/atom.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/unity.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/git.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/github.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/vscode.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/vs.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/atom.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/unity.png" height="40" style="vertical-align:down; margin:4px">
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mutafakkir&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
