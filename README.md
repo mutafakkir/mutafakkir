@@ -50,3 +50,5 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mutafakkir&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
 <hr>
+
+[![Asrorbek O'ktamjonov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mutafakkir)](https://github.com/ashutosh00710/github-readme-activity-graph)
