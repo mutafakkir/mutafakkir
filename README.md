@@ -13,6 +13,18 @@
 
 <br/>
 
+<h1> 👨🏻‍💻 Me now </h1>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Computer Science and Engineering - Ilmhub IT school.
+- ⌛️ &nbsp; Currently I'm busy with:
+  - 👨‍🏫 &nbsp; Working as a Software Engineer at [Ilmhub IT School](https://ilmhub.uz)
+- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/MrMutafakir)
+- 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
+- 📫 &nbsp; Reach me at: asrorbek.developer@gmail.com
+
+<br/>
+
 <h1>Me Stats</h1>
 
 <div align="center">
