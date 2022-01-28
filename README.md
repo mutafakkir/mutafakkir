@@ -52,3 +52,7 @@
 <hr>
 
 [![Asrorbek O'ktamjonov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mutafakkir&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</br>
+
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/mutafakkir/count.svg"/></h3>
