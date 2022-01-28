@@ -48,6 +48,4 @@
 </p>
 <hr>
 
-</br>
-
 <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/mutafakkir/count.svg"/></h3>
