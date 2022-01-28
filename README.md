@@ -1,4 +1,4 @@
-<a href="https://t.me/mutafakir"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
+<a href="https://t.me/mutafakir"><img src="logo.png" align="right" height="200"/></a>
 
 # Hi there, I'm Mutafakkir 👋
 
