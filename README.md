@@ -35,20 +35,18 @@
 <p align="center">
 <!--Languages-->
  
-<img src="./images/csharp.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/cpp.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/html.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./csharp.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="./cpp.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./html.png" height="40" style="vertical-align:down; margin:4px">
   <img src="./images/css.png" height="40" style="vertical-align:down; margin:4px">
  <img src="./images/javascript.png" height="40" style="vertical-align:down; margin:4px">
 
 <!--Tools-->
 
-<img src="./images/git.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/github.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/vscode.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/vs.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/atom.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/unity.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./git.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./github.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./vscode.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./vs.png" height="40" style="vertical-align:down; margin:4px">
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mutafakkir&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
