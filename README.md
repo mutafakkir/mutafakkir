@@ -21,7 +21,7 @@
 
   <div align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=mutafakkir&theme=react-dark&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=mutafakkir&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
   </div>
 
 <!--Languages and tools-->
