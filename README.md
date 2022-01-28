@@ -38,8 +38,8 @@
 <img src="./csharp.png" height="40" style="vertical-align:down; margin:4px">
  <img src="./cpp.png" height="40" style="vertical-align:down; margin:4px">
 <img src="./html.png" height="40" style="vertical-align:down; margin:4px">
-  <img src="./images/css.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/javascript.png" height="40" style="vertical-align:down; margin:4px">
+  <img src="./css.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="./javascript.png" height="40" style="vertical-align:down; margin:4px">
 
 <!--Tools-->
 
