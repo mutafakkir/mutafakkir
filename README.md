@@ -9,7 +9,7 @@
 </p>
 
 <details>
-<summary>My Github Statistics</summary>
+<summary>📈 My Github Statistics</summary>
 
   <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -26,7 +26,7 @@
 </details>
 <!--Languages and tools-->
 <details>
-<summary>Languages and Tools I Use</summary>
+<summary>📖 Languages and Tools I Use</summary>
 <br />
 
 <p align="center">
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary>🏆GitHub Trophies</summary>
+<summary>🏆 GitHub Trophies</summary>
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=mutafakkir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
