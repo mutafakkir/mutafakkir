@@ -48,4 +48,12 @@
 </p>
 <hr>
 
+## 🏆GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mutafakkir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+  
+</div>
+<hr>
+
 <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/mutafakkir/count.svg"/></h3>
