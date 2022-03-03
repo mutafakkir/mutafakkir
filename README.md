@@ -1,66 +1,39 @@
-<h3 align="center">
-  Welcome to Asrorbek O'ktamjonov's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+### Hi there, I'm Asrorbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mutafakir/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MrMutafakir)
+[![](https://visitor-badge.glitch.me/badge?page_id=mutafakkir.mutafakkir)]()
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20.NET%20Developer;Web%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=4F77FF&vCenter=true&size=22"></a>
-</p>
+## 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" />
 
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<hr>
+**Talking about Personal Stuffs:**
 
-<details>
-<summary>📈 My Github Statistics</summary>
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning everything
 
-  <div align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=mutafakkir&theme=algolia&hide_border=true&count_private=true&show_icons=true">
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutafakkir&theme=algolia&hide_border=true">
+##
 
-  </div>
+### Languages and Tools:
 
-  <div align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=mutafakkir&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-  </div>
-</details>
-<!--Languages and tools-->
-<details>
-<summary>📖 Languages and Tools I Use</summary>
-<br />
+<img align="left" alt="Visual Studio Code" width="30px" src="./csharp.png" />
+<img align="left" alt="HTML5" width="30px" src="./html.png" />
+<img align="left" alt="CSS3" width="30px" src="./css.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="./vscode.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="./javascript.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="./github.png" />
+<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/iconfinder_2993773_git_social%20media_icon_128px.png" />
 
-<p align="center">
-<!--Languages-->
- 
-<img src="./csharp.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./cpp.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./html.png" height="40" style="vertical-align:down; margin:4px">
-  <img src="./css.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./javascript.png" height="40" style="vertical-align:down; margin:4px">
+<br>
+<br>
 
-<!--Tools-->
+##
 
-<img src="./git.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./github.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./vscode.png" height="40" style="vertical-align:down; margin:4px">
-<br />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mutafakkir&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
-</p>
-<hr>
-</details>
 
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<div align="center">
+📈 **My GitHub Stats:**
 
-![](https://github-profile-trophy.vercel.app/?username=mutafakkir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-  
+<div display="flex">
+  <p>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=mutafakkir&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutafakkir&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  </p>
 </div>
-</details>
-<hr>
-
-<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/mutafakkir/count.svg"/></h3>
