@@ -1,7 +1,6 @@
 - 👋 Hi, Asrorbek O'ktamjonov  
-- 👀 I’m interested in JS, CSS/HTML and C# 
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on web app & platform development 
+- 👀 I’m interested in C++, C#, HTML/CSS, JS
+- 🌱 I’m currently learning everything
 - 📫 How to reach me asrorbek.developer@gmail.com
 
  
