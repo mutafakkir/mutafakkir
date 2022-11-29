@@ -1,6 +1,6 @@
-- 👋 Hi, Asrorbek O'ktamjonov  
-- 👀 I’m interested in C++, C#, HTML/CSS, JS
-- 🌱 I’m currently learning everything
+- 👋 Hi, I'm Asrorbek O'ktamjonov  
+- 👀 I’m interested in Graphic, Digital, Motion design
+- 🌱 I’m currently learning Digital Art
 - 📫 How to reach me asrorbek.developer@gmail.com
 
  
